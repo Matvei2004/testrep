@@ -216,6 +216,8 @@ os.system('cls||clear')
 field[5][6] = "а"
 
 
+
+
 for i in ["right", "right", "right", "up", "up", "up", "left", "left", "left", "down", "down", "down"] * 1:
     snake[0] = i
     Crowl_Snake()
